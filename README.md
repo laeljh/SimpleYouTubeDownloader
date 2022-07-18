@@ -32,3 +32,8 @@ Then if necessary videos are covnerted converted
 
 This is an early version, with basic GUI written in streamline, with little modification it can be used to create a local-running software. 
 Just needs a different GUI.
+
+
+# Bugs
+it doesn't work with short links youtu.be
+with very long playlists it can get stuck (might be some protection from YT)
